@@ -35,7 +35,7 @@ Project ini dibagi menjadi beberapa class agar kodenya lebih terstruktur dan men
   * Tekan tombol **Spasi** untuk membuat burung melompat ke atas. Musik latar (*BGM*) akan langsung berputar secara otomatis.
   * Burung akan terus ditarik ke bawah oleh gravitasi jika tombol Spasi tidak ditekan.
   * Pipa atas dan bawah akan muncul secara periodik dengan celah acak dari arah kanan ke kiri.
-* **Sistem Skor**: Skor akan bertambah `+1` setiap kali burung berhasil melewati rintangan pipa.
+* **Sistem Skor**: Skor akan bertambah setiap kali burung berhasil melewati rintangan pipa.
 * **Game Over & Restart**: 
   * Permainan berakhir jika burung menabrak pipa atau jatuh ke bawah layar. Musik akan berhenti dan layar menampilkan tulisan *Game Over* beserta skor akhir.
   * Pemain dapat menekan tombol **'R'** di keyboard untuk mengulang permainan dari awal.
